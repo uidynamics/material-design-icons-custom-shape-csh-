@@ -1,4 +1,4 @@
-# material-design-icons-custom-shape-csh-
+# Material design icons custom shape 
 Material Design icon custom shape for Photoshop (csh) 
 
 # 2.2 Update (included)
